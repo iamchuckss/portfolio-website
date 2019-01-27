@@ -18,7 +18,7 @@ disqusShortname = "yourdiscussshortname"
     info = "A Sophomore CS major at the University of Minnesota - Twin Cities."
     description = "The personal website and blog of KahMeng Chuck, software engineer."
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = ""
 
     favicon_32 = "/img/favicon.iso"
     favicon_16 = "/img/favicon-16x16.png"
