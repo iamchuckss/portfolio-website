@@ -15,8 +15,8 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Chuck KahMeng"
-    info = "Hi, I'm Chuck. I'm currently a sophomore studying Computer Science at the University of Minnesota - Twin Cities."
-    description = "The personal website and blog of KahMeng Chuck, software engineer and mathematician."
+    info = "A Sophomore CS major at the University of Minnesota - Twin Cities."
+    description = "The personal website and blog of KahMeng Chuck, software engineer."
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
 
