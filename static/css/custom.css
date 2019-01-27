@@ -216,7 +216,7 @@ img {
     margin: 0; }
 
 .avatar img {
-  width: 20rem;
+  width: 15rem;
   height: auto;
   border-radius: 50%; }
   @media only screen and (max-width: 768px) {
@@ -257,11 +257,14 @@ img {
     text-align: center; }
     .centered .about h1 {
       margin-top: 2.0rem;
-      margin-bottom: 60px; }
+      margin-bottom: 2.0rem; }
     .centered .about h2 {
-      margin-top: 1.0rem;
-      margin-bottom: 0.5rem;
-      font-size: 2.4rem; }
+      color: #455565;
+      background-color: #FAFAFA;
+      font-family: pt sans, helvetica neue, Helvetica, Arial, sans-serif;
+      font-size: 1rem; 
+      text-align: center
+      }
       @media only screen and (max-width: 768px) {
         .centered .about h2 {
           font-size: 2.0rem; } }
