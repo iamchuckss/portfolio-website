@@ -317,7 +317,7 @@ img {
     color: #1565c0; }
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
-    font-size: 0.5rem;}
+    font-size: 1.5rem;}
   .navigation .navigation-list {
     float: right;
     list-style: none;
@@ -455,3 +455,4 @@ img {
   padding: 0;
   margin: 0;
 }
+
