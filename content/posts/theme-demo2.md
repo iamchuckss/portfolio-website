@@ -16,6 +16,14 @@ math = "true"
 ##### h5 Heading
 ###### h6 Heading
 
+- [h1 Heading](#h1-heading)
+  - [h2 Heading](#h2-heading)
+    - [h3 Heading](#h3-heading)
+      - [h4 Heading](#h4-heading)
+        - [h5 Heading](#h5-heading)
+          - [h6 Heading](#h6-heading)
+  - [Code](#code)
+  - [Hugo shortcode for figure](#hugo-shortcode-for-figure)
 
 ---
 
