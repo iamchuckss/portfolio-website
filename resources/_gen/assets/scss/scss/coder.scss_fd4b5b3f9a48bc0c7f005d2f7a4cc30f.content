@@ -303,20 +303,19 @@ img {
 
 .navigation {
   height: 6.0rem;
-  width: 100%;
-  margin-top: 1rem a, span;
-    margin-top-display: inline;
-    margin-top-font-size: 1.6rem;
-    margin-top-font-family: Lato, Helvetica, sans-serif;
-    margin-top-font-weight: 700;
-    margin-top-line-height: 6.0rem;
-    margin-top-color: #212121; }
+  width: 100%; }
+  .navigation a, .navigation span {
+    display: inline;
+    font-size: 1.6rem;
+    font-family: Lato, Helvetica, sans-serif;
+    font-weight: 700;
+    line-height: 6.0rem;
+    color: #212121; }
   .navigation a:hover, .navigation a:focus {
     color: #1565c0; }
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
-    text-transform: uppercase;
-    font-size: 2.8rem; }
+    text-transform: uppercase; }
   .navigation .navigation-list {
     float: right;
     list-style: none;

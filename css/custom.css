@@ -12,8 +12,8 @@ body {
   background-color: #FAFAFA;
   font-family: Merriweather, Georgia, serif;
   font-size: 1.6em;
-  font-weight: 300;
-  line-height: 1.8em; }
+  font-weight: 500;
+  line-height: 0em; }
   @media only screen and (max-width: 768px) {
     body {
       font-size: 5.0em;
@@ -38,20 +38,20 @@ h6 {
   font-family: Lato, Helvetica, sans-serif;
   font-weight: 700;
   color: #000;
-  margin: 6.4rem 0 3.2rem 0; }
+  margin: 6.4rem 0 0 0; }
 
 h1 {
   font-size: 3.2rem;
-  line-height: 3.6rem;
+  line-height: 0rem;
    }
   @media only screen and (max-width: 768px) {
     h1 {
       font-size: 3.0rem;
-      line-height: 3.4rem; } }
+      line-height: 1.4rem; } }
 
 h2 {
   font-size: 2.8rem;
-  line-height: 3.2rem; }
+  line-height: 0rem; }
   @media only screen and (max-width: 768px) {
     h2 {
       font-size: 2.6rem;

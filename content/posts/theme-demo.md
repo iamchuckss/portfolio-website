@@ -18,7 +18,7 @@ math = "true"
 
 
 ---
-
+<div style="page-break-after: always;"></div>
 **This is bold text**
 
 __This is bold text__
