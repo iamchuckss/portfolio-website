@@ -86,20 +86,11 @@ Only 20-30% of population were slaves in Imperial Rome
 
 **Range of work:** mines, houshold, farms, prostitues, teachers, doctors, secretaries
 
-Emancipation/manumission of slaves are common
+Emancipation/manumission of slaves are common, freed slaves commonly take the name of former master and went into business with them
 
-    Freed slaves commonly take the name of former master and went into business with them
+## Patrician vs Plebeian
 
-
-## Roman Marriages
-
-## Roman Religion
-
-## Important Social Distinction
-
-### Patrician vs Plebeian
-
-#### Early Rome
+**Early Rome**
 
 - **Plebeians**: 
     - Had few rights
@@ -113,7 +104,7 @@ Emancipation/manumission of slaves are common
     + Made laws, owned lands, were the generals
     + Always held majority of wealth and power
 
-#### Republic Rome
+**Republic Rome**
 
 - **Plebeians**: 
     - Allowed to elect own government officials(senate, consul, tribunes) 
@@ -124,7 +115,7 @@ Emancipation/manumission of slaves are common
 - **Patricians**:
     + Few legal differences from plebeians
 
-### Senator vs Equestrian
+## Senator vs Equestrian
 
 - Census ranking
     + Based on wealth and political privilege
@@ -135,7 +126,7 @@ Emancipation/manumission of slaves are common
     + Had different legal status
         * Cannot engage in business
 
-### Patron vs Client
+## Patron vs Client
 
 #### Patron/Client System at Rome 
 
