@@ -8,7 +8,7 @@ math = "true"
 
 +++
 
-# Quiz #1 Study Questions
+## Quiz #1 Study Questions
 
 1. Who was the legendary founder of Rome? What year was the city founded?
 2. What is the "Rape of Lucretia"? What kind of political revolution did it trigger?
@@ -18,7 +18,7 @@ math = "true"
 
 # Roman Officials/Magistrates
 
-## Annual
+### Annual
 
 **Consuls**: 
 
@@ -40,13 +40,84 @@ math = "true"
 
 **Tribunes of the Plebs**: Defend the interests of plebeians
 
-## Non-annual
+### Non-annual
 
-**Dictator**: Martial law in emergency, 
+**Dictator**: Martial law in emergency, appointed by consul for 6 months
 
-**Censors** 
+**Censors**:
 
-# Patron/Client System at Rome 
+- Two, appointed every 5 years
+- Assess property of the wealthy and put them into Centuriate Assembly
+    + One of the weighted voting groups in the assemblies
+
+## Citizen Assemblies
+
+**Centuriate Assembly**
+
+- Originally assembly of military units
+    + reconstituted to which eligible voters were allocated according to their wealth
+- Elect senior state officials, declare war, approve legislation
+
+**Plebian Assembly**
+
+- Voting in 35 tribal/district divisions
+- Could be made binding on whole community
+
+**Tribal Assembly**
+
+- Organized in tribes the same way as plebs
+- Open to all citizens
+- Elect minor officials
+
+## Roman Slavery
+
+
+## Roman Marriages
+
+## Roman Religion
+
+## Important Social Distinction
+
+### Patrician vs Plebeian
+
+#### Early Rome
+
+- **Plebeians**: 
+    - Had few rights
+    - Farmers, craftsmen, laborers, soldiers
+    - Not allowed to hold public office
+    - Not allowed to marry patricians
+    
+- **Patricians**:
+    - Held all governmental and religious positions
+    + Ruling class families
+    + Made laws, owned lands, were the generals
+    + Always held majority of wealth and power
+
+#### Republic Rome
+
+- Plebeians: 
+    - Allowed to elect own government officials(senate, consul, tribunes) 
+    - Had power to veto new laws from senate
+    - Allowed to marry patricians
+    - Can be equally wealthy as patricians - Nobility
+- Patricians:
+    + Few legal differences from plebeians
+
+### Senator vs Equestrian
+
+- Census ranking
+    + Based on wealth and political privilege
+- Equestrian(Eques):
+    + Defined by wealth instead of heredity
+    + Had to be an Eques to run for political office/hold high military command
+- Senator:
+    + Had different legal status
+        * Cannot engage in business
+
+### Patron vs Client
+
+#### Patron/Client System at Rome 
 
 - A patron can have a patron of his own; vice versa
 - Freeborn plebes could choose/change their patron
@@ -59,30 +130,14 @@ math = "true"
         + Voting for their patron
     - Patrons provide goods and services (food, legal counsel)
 
-# Roman Slavery
-
-
-
-# Roman Marriages
-
-# Roman Religion
-
-# Important Social Distinction
-
-## Patrician vs Plebeian
-
-## Senator vs Equestrian
-
-## Patron vs Client
-
-# Important factors in class structure
+## Important factors in class structure
 
 - Wealth (basic unit of money = "sesterce", a silver coin)
 - Freedom (free; freed; slave)
 - Citizenship
 
-# The Legal Framework
+## The Legal Framework
 
 
-# Names of Roman Citizens
+## Names of Roman Citizens
 
