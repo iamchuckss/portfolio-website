@@ -16,7 +16,7 @@ math = "true"
 4. What were the sources of slaves in the Roman world? What sorts of work did slaves do?
 5. What were the basic operating principles of the patron/client system at Rome?
 
-# Roman Officials/Magistrates
+## Roman Officials/Magistrates
 
 ### Annual
 
@@ -71,6 +71,25 @@ math = "true"
 
 ## Roman Slavery
 
+There were not many slaves until 300BCE (defeated war captives)
+
+Only 20-30% of population were slaves in Imperial Rome
+
+**Sources of slaves:**
+
+- War captives
+- Pirates
+- Kidnappers
+- Exposed Children
+- Children sold by poor parents
+- Born into slavery
+
+**Range of work:** mines, houshold, farms, prostitues, teachers, doctors, secretaries
+
+Emancipation/manumission of slaves are common
+
+    Freed slaves commonly take the name of former master and went into business with them
+
 
 ## Roman Marriages
 
@@ -96,12 +115,13 @@ math = "true"
 
 #### Republic Rome
 
-- Plebeians: 
+- **Plebeians**: 
     - Allowed to elect own government officials(senate, consul, tribunes) 
     - Had power to veto new laws from senate
     - Allowed to marry patricians
     - Can be equally wealthy as patricians - Nobility
-- Patricians:
+    
+- **Patricians**:
     + Few legal differences from plebeians
 
 ### Senator vs Equestrian
