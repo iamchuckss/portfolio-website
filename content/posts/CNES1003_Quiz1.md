@@ -1,11 +1,7 @@
 +++
-
-date = "2017-01-08"
+date = "2017-02-06"
 title = "CNES1003 Quiz"
-description = "The post demonstrates features of the coder theme."
-images = ["/images/N90.jpg"]
 math = "true"
-
 +++
 
 ## Quiz #1 Study Questions
