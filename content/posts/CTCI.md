@@ -1,8 +1,10 @@
-+++ 
++++
+date = "2017-01-08"
 title = "Cracking the Coding Interview Notes"
-slug = "CTCI" 
-tags = []
-categories = []
+description = "The post demonstrates features of the coder theme."
+images = ["/images/N90.jpg"]
+math = "true"
+
 +++
 
 - [Chapter 1 - Arrays and Strings](#chapter-1---arrays-and-strings)
@@ -32,7 +34,6 @@ Array questions and String questions are often interchangable.
 ---
 
 ## StringBuilder
-
 
 ---
 
