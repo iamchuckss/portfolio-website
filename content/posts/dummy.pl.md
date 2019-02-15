@@ -20,4 +20,4 @@ public class {
 
 
 
-![test](Foodcart-logo.png?raw=true "Optional title")
+![test](/img/Foodcart-logo.png "Optional title")

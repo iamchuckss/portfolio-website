@@ -13,6 +13,8 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
 
+staticDir = ["static"]
+
 [params]
     author = "Chuck KahMeng"
     info = "A Sophomore CS major at the University of Minnesota - Twin Cities."
