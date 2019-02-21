@@ -1,6 +1,10 @@
 +++ 
-date = "2018-12-31"
+date = "2017-01-08"
 title = "Dummy"
+description = "The post demonstrates features of the coder theme."
+images = ["/images/N90.jpg"]
+math = "true"
+draft = "true"
 +++
 
 w budowie...
@@ -9,11 +13,23 @@ w budowie...
     + dsa
         * das
 
+# First
+<p></p>
+## Second
+
+Testing 2
+
+### Third
+
+**Testing**
+
+- Lorem ipsum
+- 
 
 ```java
-public class {
-    dsaas 
-    dsadsa
-    
+public class Test {
+
 }
 ```
+
+<img src="/img/Foodcart-logo.png"  height="100"/>

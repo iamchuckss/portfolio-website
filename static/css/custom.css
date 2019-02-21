@@ -10,9 +10,9 @@ html {
 body {
   color: #212121;
   background-color: #FAFAFA;
-  font-family: Merriweather, Georgia, serif;
-  font-size: 1.6em;
-  font-weight: 300;
+  font-family: Segoe UI, calibri, Arial, Georgia, serif;
+  font-size: 1.9em;
+  font-weight: 500;
   line-height: 1.8em; }
   @media only screen and (max-width: 768px) {
     body {
@@ -27,7 +27,8 @@ a {
     text-decoration: underline; }
 
 p {
-  margin: 2.0rem 0 2.0rem 0; }
+  margin: 1.5rem 0 1.5rem 0;
+  font-weight: 500 }
 
 h1,
 h2,
@@ -38,11 +39,14 @@ h6 {
   font-family: Lato, Helvetica, sans-serif;
   font-weight: 700;
   color: #000;
-  margin: 6.4rem 0 3.2rem 0; }
+  margin: 4.8rem 0 2.0rem 0; }
 
 h1 {
   font-size: 3.2rem;
   line-height: 3.6rem;
+  padding: 0 0 0.3em 0;
+  color: rgb(10, 132, 100);
+  border-bottom: thick solid rgb(12, 155, 116);
    }
   @media only screen and (max-width: 768px) {
     h1 {
@@ -50,8 +54,12 @@ h1 {
       line-height: 3.4rem; } }
 
 h2 {
-  font-size: 2.8rem;
-  line-height: 3.2rem; }
+  font-size: 3.0rem;
+  line-height: 3.2rem;
+  padding: 0 0 0.3em 0;
+      color: rgb(10, 132, 100);
+  border-bottom: thin solid rgb(12, 155, 116);
+   }
   @media only screen and (max-width: 768px) {
     h2 {
       font-size: 2.6rem;
@@ -67,7 +75,10 @@ h3 {
 
 h4 {
   font-size: 2.2rem;
-  line-height: 2.6rem; }
+  line-height: 2.6rem;
+  color: rgb(10, 132, 100); 
+  padding: 0 0 0.3em 0;
+  border-bottom: thin dotted rgb(12, 155, 116);}
   @media only screen and (max-width: 768px) {
     h4 {
       font-size: 2.0rem;
